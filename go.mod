@@ -1,4 +1,4 @@
-module xyz.mouselee.mouselib
+module github.com/XuanLee-HEALER/mouselib
 
 go 1.19
 
